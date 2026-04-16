@@ -1,4 +1,4 @@
-NAM:- SAIFULLA
+NAME:- SAIFULLA
 SRN:- PES2UG25AM807
 SECTION:- A
 # Topology-Change-Detector
